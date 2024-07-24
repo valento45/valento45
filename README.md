@@ -22,5 +22,5 @@ AzureDevops, CI/CD, Openshift e vivência com RabbitMQ.
 Contatos:
 
 
-![instagfra](https://github.com/valento45/igor.carvalho/assets/54119744/8ad7ecea-e5fe-4c79-a793-6b7d4b045d0d)
+![instagfra](https://www.instagram.com/ihc_digitalsolutions/)
 ![linkedinsss](https://github.com/valento45/igor.carvalho/assets/54119744/5b720580-a032-4ff8-869e-648b9d24ebeb)
