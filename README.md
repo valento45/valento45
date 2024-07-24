@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello World! 👋
 
-<!--
-**valento45/valento45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☑️ Me chamo Igor Carvalho, e sou Desenvolvedor .NET
 
-Here are some ideas to get you started:
+📚 Venho participando ativamente de projetos, encontros e cursos com foco em desenvolvimento com C# | .NET buscando absorver o máximo de conhecimentos, além de trabalhar em empreendimentos pessoais e projetos profissionais para manter minha experiência prática em constantemente em evolução.
+Apaixonado por inovação, tecnologia e desafios venho desde 2015 programando aplicativos sem parar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Em minha jornada com desenvolvimento venho atuando com .NET, C#, MVC, Javascript, Jquery, HTML, CSS, Domíninio em
+três Banco de dados (PostgreSQL, SQL Server e Oracle), Domínio em Testes unitarios com
+Xunit, containerização com Docker e Kubernetes, Qualidade de código com SonarQube,
+AzureDevops, CI/CD, Openshift e vivência com RabbitMQ.
+
+🖥️
+
+
+![csharp](https://github.com/valento45/igor.carvalho/assets/54119744/30c60a11-a648-4648-8b0f-c788fc614fdf)
+![net](https://github.com/valento45/igor.carvalho/assets/54119744/93053858-7a45-4dd6-a002-2eb013b57537)
+![html](https://github.com/valento45/igor.carvalho/assets/54119744/ac7d8ad8-dfd5-472d-9927-f37649bbb331)
+![css](https://github.com/valento45/igor.carvalho/assets/54119744/2e93b6d3-8bbd-4d6b-bc0b-cce867fa0fce)
+
+
+Contatos:
+
+
+![instagfra](https://github.com/valento45/igor.carvalho/assets/54119744/8ad7ecea-e5fe-4c79-a793-6b7d4b045d0d)
+![linkedinsss](https://github.com/valento45/igor.carvalho/assets/54119744/5b720580-a032-4ff8-869e-648b9d24ebeb)
