@@ -2,13 +2,16 @@
 
 ☑️ Me chamo Igor Carvalho, e sou Desenvolvedor .NET
 
-📚 Venho participando ativamente de projetos, encontros e cursos com foco em desenvolvimento com C# | .NET buscando absorver o máximo de conhecimentos, além de trabalhar em empreendimentos pessoais e projetos profissionais para manter minha experiência prática em constantemente em evolução.
-Apaixonado por inovação, tecnologia e desafios venho desde 2015 programando aplicativos sem parar.
-
-Em minha jornada com desenvolvimento venho atuando com .NET, C#, MVC, Javascript, Jquery, HTML, CSS, Domíninio em
+📚 São 6 anos de experiência em minha jornada com desenvolvimento .NET, C#, para API's e WebApp's,
+Autenticação com Identity e Claims do AspNet, Javascript, Jquery, HTML, CSS, Domíninio em
 três Banco de dados (PostgreSQL, SQL Server e Oracle), Domínio em Testes unitarios com
-Xunit, containerização com Docker e Kubernetes, Qualidade de código com SonarQube,
-AzureDevops, CI/CD, Openshift e vivência com RabbitMQ.
+Xunit e Moq, containerização com Docker e Kubernetes, Qualidade de código com SonarQube, Fortify,
+AzureDevops, CI/CD, Openshift e vivência com RabbitMQ e SCRUM.
+
+
+Em minha jornada com desenvolvimento tive o prazor de contribuir e atuar em diversos projetos bancários e de investimentos dando espaço para grande aprendizados sobre B3, SINACOR, Renda varíavel, Nelógica, ValeMobi e outros fornecedores de ferramentas de operações de investimentos.
+Experiência com van bancárias e arquivos bancários no padrão CNAB, experiência com corretora de investimentos, renda variável, cartões, transferências e alocações de garantias, operações alavancagem, daytrade dentre outros elementos dentro do domínio de investimentos.
+Em minha carreira atuei diretamente com integrações bancárias e entre fornecedores, transferências de recursos e alocações de garantias, adesão de ferramentas para operações de investimentos, carteira de investimentos e outros. Sou proativo e sempre disposto a encarar desafios, sou apaixonado por inovação e venho sempre evoluindo meu ofício que é desenvolvimento de softwares.
 
 🖥️
 
