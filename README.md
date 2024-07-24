@@ -9,9 +9,10 @@ Xunit e Moq, containerização com Docker e Kubernetes, Qualidade de código com
 AzureDevops, CI/CD, Openshift e vivência com RabbitMQ e SCRUM.
 
 
-Em minha jornada com desenvolvimento tive o prazor de contribuir e atuar em diversos projetos bancários e de investimentos dando espaço para grande aprendizados sobre B3, SINACOR, Renda varíavel, Nelógica, ValeMobi e outros fornecedores de ferramentas de operações de investimentos.
-Experiência com van bancárias e arquivos bancários no padrão CNAB, experiência com corretora de investimentos, renda variável, cartões, transferências e alocações de garantias, operações alavancagem, daytrade dentre outros elementos dentro do domínio de investimentos.
-Em minha carreira atuei diretamente com integrações bancárias e entre fornecedores, transferências de recursos e alocações de garantias, adesão de ferramentas para operações de investimentos, carteira de investimentos e outros. Sou proativo e sempre disposto a encarar desafios, sou apaixonado por inovação e venho sempre evoluindo meu ofício que é desenvolvimento de softwares.
+Em minha jornada com desenvolvimento tive o prazer de contribuir e atuar em diversos projetos bancários e de investimentos dando espaço para grandes aprendizados sobre B3, SINACOR, INOA, atuando ativamente no squad de Renda varíavel, responsável por integrações com Nelógica, ValeMobi e outros fornecedores de ferramentas de operações de investimentos.
+Possúo conhecimento e experiência com van bancárias e integrações bancários via arquivo bancário no padrão CNAB, experiência com corretora de investimentos, renda variável, cartões, transferências e alocações de garantias, operações alavancagem, daytrade dentre outros elementos dentro do domínio de investimentos.
+Em minha carreira atuei diretamente no desenvolvimento de ferramentas nova para Ágora corretora de investimentos com integrações bancárias para diversos bancos como Bradesco, Santander e Itaú. Atuando no desenvolvimento de transferências de recursos e alocações de garantias, adesão de ferramentas para operações de investimentos, carteira de investimentos e outros. 
+Sou apaixonado por inovação, proativo e sempre disposto a encarar desafios e venho aprimorando meu ofício que é desenvolvimento de softwares.
 
 🖥️
 
