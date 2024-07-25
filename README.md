@@ -22,7 +22,8 @@ Sou apaixonado por inovação, proativo e sempre disposto a encarar desafios e v
 ![net](https://github.com/valento45/igor.carvalho/assets/54119744/93053858-7a45-4dd6-a002-2eb013b57537)
 ![html](https://github.com/valento45/igor.carvalho/assets/54119744/ac7d8ad8-dfd5-472d-9927-f37649bbb331)
 ![css](https://github.com/valento45/igor.carvalho/assets/54119744/2e93b6d3-8bbd-4d6b-bc0b-cce867fa0fce)
-![image](https://github.com/user-attachments/assets/8e0d93a7-8d11-4aa2-bbdc-5e440a0b92d2)
+![image](https://github.com/user-attachments/assets/af15af6b-31e3-46b8-8010-7dc1b94a6650)
+
 
 
 
